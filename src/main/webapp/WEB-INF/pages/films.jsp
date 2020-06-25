@@ -45,7 +45,6 @@
         </div>
     </c:forEach>
 </table>
-
 <c:url value="/add" var="add"/>
 <div class="add-film">
     <a href="${add}">Add new film</a>

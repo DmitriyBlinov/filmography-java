@@ -272,7 +272,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593089215680" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593089818848" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/testgroup/filmography" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -400,12 +400,12 @@
       <workItem from="1590928905840" duration="214000" />
       <workItem from="1590929203136" duration="4844000" />
       <workItem from="1591014725353" duration="11282000" />
-      <workItem from="1593087876677" duration="1518000" />
+      <workItem from="1593087876677" duration="1794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19887000" />
+    <option name="totallyTimeSpent" value="20163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />

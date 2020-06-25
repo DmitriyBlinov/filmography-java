@@ -50,5 +50,5 @@
 <div class="add-film">
     <a href="${add}">Add new film</a>
 </div>
-</body> 
+</body>
 </html>
